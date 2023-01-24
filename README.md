@@ -16,3 +16,14 @@
   <img src="ReadmeImages/ss5.png" width= "300">
   <img src="ReadmeImages/ss6.png" width= "300">
 <div
+
+
+Note to self: 
+mapkit kullanıldı
+annotation eklendi for mapkit
+custom pin yapma
+spinner ekleme
+json parsing
+flickerdan url ile resim download
+alamofire ile resim download etme
+3d touch
